@@ -1,4 +1,4 @@
-# Arduino-project
+# Arduino-Project
 
 # 🅿️ 스마트 주차장 시스템 (Smart Parking Lot System)  
 
